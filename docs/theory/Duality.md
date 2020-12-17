@@ -246,7 +246,7 @@ $$
 \sup_{x \in E}\left[(-A^*\lambda)^\top x - f(x) \right] = \begin{cases} f^*(-A^*\lambda), &\text{ if } \lambda \in (-A^*)^{-1}(E_*)\\ +\infty, &\text{ otherwise} \end{cases}
 $$
 
-So, we have
+So, we have:
 
 $$
 \begin{split}
