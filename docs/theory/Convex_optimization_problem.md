@@ -37,7 +37,7 @@ $$
 \tag{CP}
 $$
 
-while the following equivalent problem is convex optimization problem
+while the following equivalent problem is convex optimization problem:
 
 $$
 \begin{split}
