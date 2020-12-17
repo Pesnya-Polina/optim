@@ -267,7 +267,7 @@ $$
 d^* = f^*(-A^*\lambda) + g^*(\lambda) \to \min\limits_{\lambda \in G_* \cap (-A^*)^{-1}(E_*)},
 $$
 
-Then we have weak duality: $$p^* \geq d^*$$. Furthermore, if the functions $$f$$ and $$g$$ are convex and $$A(\mathbf{relint}(E)) \cap \mathbf{relint}(G) \neq \varnothing $$, then we have strong duality: $$p^* = d^*$$. While points $$x^* \in E \cap A^{-1}(G)$$ and $$\lambda^* \in G_* \cap (-A^*)^{-1}(E_*)$$ are optimal values for primal and dual problem if and only if
+Then we have weak duality: $$p^* \geq d^*$$. Furthermore, if the functions $$f$$ and $$g$$ are convex and $$A(\mathbf{relint}(E)) \cap \mathbf{relint}(G) \neq \varnothing $$, then we have strong duality: $$p^* = d^*$$. While points $$x^* \in E \cap A^{-1}(G)$$ and $$\lambda^* \in G_* \cap (-A^*)^{-1}(E_*)$$ are optimal values for primal and dual problem if and only if:
 
 $$
 \begin{split}
