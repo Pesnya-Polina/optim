@@ -78,7 +78,7 @@ One more important result for convex constrained case sounds as follows. If $$f(
 
 ## Optimization with equality conditions
 ### Intuition
-Things are pretty simple and intuitive in unconstrained problem. In this section we will add one equality constraint, i.e.
+Things are pretty simple and intuitive in unconstrained problem. In this section we will add one equality constraint, i.e:
 
 $$
 \begin{split}
