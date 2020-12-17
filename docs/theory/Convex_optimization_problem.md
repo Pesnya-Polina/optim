@@ -48,7 +48,7 @@ $$
 \tag{COP}
 $$
 
-Such confusion in notation is sometimes being avoided by naming problems of type $$\text{(CP)}$$ as *abstract form convex optimization problem*
+Such confusion in notation is sometimes being avoided by naming problems of type $$\text{(CP)}$$ as *abstract form convex optimization problem*.
 
 # Materials
 
