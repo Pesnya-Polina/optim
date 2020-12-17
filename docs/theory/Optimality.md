@@ -162,7 +162,7 @@ $$
 L(x, \lambda) = f(x) + \sum\limits_{i=1}^m\lambda_i h_i(x) = f(x) + \lambda^\top h(x)
 $$
 
-Let $$ f(x) $$ and $$ h_i(x) $$ be twice differentiable at the point $$ x^* $$ and continuously differentiable in some neighborhood $$ x^* $$. The local minimum conditions for $$ x \in \mathbb{R}^n, \lambda \in \mathbb{R}^m $$ are written as
+Let $$ f(x) $$ and $$ h_i(x) $$ be twice differentiable at the point $$ x^* $$ and continuously differentiable in some neighborhood $$ x^* $$. The local minimum conditions for $$ x \in \mathbb{R}^n, \lambda \in \mathbb{R}^m $$ are written as:
 
 $$
 \begin{split}
